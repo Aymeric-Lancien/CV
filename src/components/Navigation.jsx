@@ -42,14 +42,14 @@ const Navigation = () => {
       <div className="socialNetwork">
         <ul>
           <li>
-            <a href="https://www.google.fr" target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin"></i></a>
+            <a href="https://www.linkedin.com/in/aymeric-lancien-058b40204/" target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin"></i></a>
           </li>
           <li>
-            <a href="https://www.google.fr" target="_blank" rel="noopener noreferrer"><i className="fa fa-github"></i></a>
+            <a href="https://github.com/Aymeric-Lancien" target="_blank" rel="noopener noreferrer"><i className="fa fa-github"></i></a>
           </li>
         </ul>
         <div className="signature">
-          <p>Aymeric Lancien - 2020</p>
+          <p>Aymeric Lancien - 2021</p>
         </div>
       </div>
     </div>

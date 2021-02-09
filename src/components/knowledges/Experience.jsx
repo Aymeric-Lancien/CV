@@ -5,23 +5,27 @@ const Experience = () => {
     <div className='experience'>
       <h3>Expérience</h3>
       <div className='exp-1'>
-        <h4>Directeur machin truc</h4>
-        <h5>2010-2015</h5>
+        <h4>Formation développement web</h4>
+        <h5>2020-2021</h5>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Id nihil
-          sequi libero placeat molestias nemo accusamus maxime optio aliquid est
-          beatae aut, commodi amet eaque! Ipsam molestias quam quae
-          consequuntur?
+          Formation en développement web à la Wild Code School de Nantes. J'y ai appris 
+          les bases, les bonnes pratiques ainsi que les outils afin de progresser en tant 
+          que développeur junior! 
         </p>
       </div>
       <div className='exp-2'>
-        <h4>Directeur machin truc</h4>
-        <h5>2015-2020</h5>
+        <h4>Intérimaire</h4>
+        <h5>2019-2020</h5>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Id nihil
-          sequi libero placeat molestias nemo accusamus maxime optio aliquid est
-          beatae aut, commodi amet eaque! Ipsam molestias quam quae
-          consequuntur?
+          Préparateur de commandes dans l'entrepôt d'U logistique.
+        </p>
+      </div>
+      <div className='exp-3'>
+        <h4>Armée</h4>
+        <h5>2018-2019</h5>
+        <p>
+          GAV en gendarmerie départementale et classes au 35e RAP. J'ai pu découvrir
+          le travail en équipe et les valeurs humaines.
         </p>
       </div>
     </div>
